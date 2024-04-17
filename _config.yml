@@ -14,12 +14,12 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Sebastian M # the main title
+title: Grazerquart # the main title
 
-tagline: Web Dev # it will display as the sub-title
+tagline: Professional Amateur # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Sebastian's Blog and Info
+  Grazerquart's Blog and Info
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Sebastian M
+  name: Grazerquart
   #email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
