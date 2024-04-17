@@ -1,8 +1,8 @@
 ---
 title: Hello World!
-date: 2024-04-16 19:25
+date: 2024-04-16 19:25:00 -0500
 categories: [meta]
-tags: [test, website]
+tags: [test,website]
 ---
 
 # Hello World
